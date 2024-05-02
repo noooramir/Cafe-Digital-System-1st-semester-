@@ -1,0 +1,12 @@
+5         BURGERS        150            14             2100           
+7         ROLL           50             18             900            
+9         APPLE          50             45             2250           
+22        ORANGE         50             48             2400           
+1         COOKIES        200            49             9800           
+8         SAMOSA         50             60             3000           
+3         SLANTY         50             94             4700           
+14        PIZZA          300            97             29100          
+18        NUTS           50             150            7500           
+23        CRACKERS       50             200            10000          
+2         CHIPS          100            300            30000          
+34        MANGO          50             14             700            

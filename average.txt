@@ -1,0 +1,49 @@
+BURGERS             14                  
+ROLL                18                  
+APPLE               45                  
+BANANA              44                  
+ORANGE              48                  
+COOKIES             49                  
+BISCUTS             60                  
+SAMOSA              60                  
+SLANTY              94                  
+PIZZA               97                  
+NUTS                150                 
+CRACKERS            200                 
+CHIPS               300                 
+
+1179                90                  
+
+
+BURGERS             14                  
+ROLL                18                  
+APPLE               45                  
+ORANGE              48                  
+COOKIES             49                  
+BISCUTS             60                  
+SAMOSA              60                  
+SLANTY              94                  
+PIZZA               97                  
+NUTS                150                 
+CRACKERS            200                 
+CHIPS               300                 
+
+1135                94                  
+
+
+BURGERS             14                  
+ROLL                18                  
+APPLE               45                  
+ORANGE              48                  
+COOKIES             49                  
+BISCUTS             60                  
+SAMOSA              60                  
+SLANTY              94                  
+PIZZA               97                  
+NUTS                150                 
+CRACKERS            200                 
+CHIPS               300                 
+
+1135                94                  
+
+
